@@ -1,0 +1,6 @@
+@HaziDoga_1013_HostAddress = http://localhost:5188
+
+GET {{HaziDoga_1013_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
